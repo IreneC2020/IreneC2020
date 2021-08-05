@@ -8,4 +8,5 @@
 IreneC2020/IreneC2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![IreneC's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneC2020)](https://github.com/IreneC2020/github-readme-stats)
+[![IreneC's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneC2020&show_icons=true&theme=radical)
+)
